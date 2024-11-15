@@ -1,4 +1,4 @@
-Here's the README file in Markdown format that you can directly copy and paste:
+
 
 # Wanderlust - Hotel Booking Website 🏨
 
@@ -113,14 +113,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-Remember to customize this README with your own project details, such as adding screenshots, updating the license text, and including any specific instructions or notes relevant to your project.
-
-Citations:
-[1] https://markdowntohtml.com/
-[2] https://stackoverflow.com/questions/76940646/how-to-convert-markdown-to-html
-[3] https://codebeautify.org/markdown-to-html
-[4] https://www.linode.com/docs/guides/how-to-use-python-markdown-to-convert-markdown-to-html/
-[5] https://www.reddit.com/r/vscode/comments/ziei4u/how_to_generate_a_html_file_from_a_markdown_md/
 [6] https://saidwaliafridi.medium.com/markdown-to-html-converter-tools-simple-guide-2024-f2e50ebdb847
 [7] https://github.com/showdownjs/showdown
 [8] https://www.devextent.com/convert-markdown-to-html-nodejs/

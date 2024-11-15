@@ -64,28 +64,24 @@ Before running the project, ensure you have the following installed:
 ### Installation
 
 Clone the Repository:
-```bash
 git clone https://github.com/YourUsername/Wanderlust.git
 cd Wanderlust
-Install Dependencies:
 
-bash
+Install Dependencies:
 Copy code
 npm install
-Set Up Environment Variables: Create a .env file in the root directory:
 
-env
-Copy code
+Set Up Environment Variables: Create a .env file in the root directory:
 MONGODB_URI=your_mongodb_connection_string
 MAPBOX_API_KEY=your_mapbox_api_key
 CLOUDINARY_CLOUD_NAME=your_cloudinary_cloud_name
 CLOUDINARY_API_KEY=your_cloudinary_api_key
 CLOUDINARY_API_SECRET=your_cloudinary_api_secret
-Run the Application:
 
-bash
-Copy code
+Run the Application:
 npm start
+
+
 📚 Usage
 Hotel Search: Use the search bar to find hotels based on location and dates.
 Interactive Map: View hotels on the map and get location-based information.
@@ -95,16 +91,28 @@ Secure Login: Users can log in using secure authentication through Passport.
 🤝 Contributing
 Contributions are what make the open-source community such a wonderful place to learn, inspire, and create. Any contributions you make are greatly appreciated!
 
+How to Contribute
 Fork the Project
-Create Your Feature Branch (git checkout -b feature/AmazingFeature)
-Commit Your Changes (git commit -m 'Add some AmazingFeature')
-Push to the Branch (git push origin feature/AmazingFeature)
+Create your own copy of the project by forking it.
+
+Create Your Feature Branch
+git checkout -b feature/AmazingFeature
+
+Commit Your Changes
+git commit -m 'Add some AmazingFeature'
+
+Push to the Branch
+git push origin feature/AmazingFeature
+
 Open a Pull Request
+Submit your changes through a pull request for review.
+
 📜 License
 Distributed under the MIT License. See LICENSE for more information.
 
 📞 Contact
 Project Maintainers:
+
 
 Aditya Kumar Singh - adiaparmar@gmail.com
 GitHub: Adiaparmar

@@ -113,8 +113,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-[6] https://saidwaliafridi.medium.com/markdown-to-html-converter-tools-simple-guide-2024-f2e50ebdb847
-[7] https://github.com/showdownjs/showdown
-[8] https://www.devextent.com/convert-markdown-to-html-nodejs/
-[9] https://www.lambdatest.com/free-online-tools/markdown-to-html-converter
-[10] https://codebeautify.org/html-to-markdown

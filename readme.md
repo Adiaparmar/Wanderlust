@@ -5,16 +5,16 @@ Welcome to Wanderlust, a modern hotel booking platform designed to simplify your
 🚀
 
 ## 📋 Table of Contents
-- About the Project
-- Key Features
-- Technologies Used
-- Getting Started
-- Prerequisites
-- Installation
-- Usage
-- Contributing
-- License
-- Contact
+- [About the Project](#about-the-project)
+- [Key Features](#key-features)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
 ---
 
@@ -63,61 +63,79 @@ Before running the project, ensure you have the following installed:
 
 ### Installation
 
-Clone the Repository:
-git clone https://github.com/YourUsername/Wanderlust.git
-cd Wanderlust
+1. **Clone the Repository**  
+   `git clone https://github.com/YourUsername/Wanderlust.git`  
+   `cd Wanderlust`
 
-Install Dependencies:
-Copy code
-npm install
+2. **Install Dependencies**  
+   `npm install`
 
-Set Up Environment Variables: Create a .env file in the root directory:
-MONGODB_URI=your_mongodb_connection_string
-MAPBOX_API_KEY=your_mapbox_api_key
-CLOUDINARY_CLOUD_NAME=your_cloudinary_cloud_name
+3. **Set Up Environment Variables**  
+   Create a `.env` file in the root directory:
+
+MONGODB_URI=your_mongodb_connection_string 
+MAPBOX_API_KEY=your_mapbox_api_key CLOUDINARY_CLOUD_NAME=your_cloudinary_cloud_name
 CLOUDINARY_API_KEY=your_cloudinary_api_key
 CLOUDINARY_API_SECRET=your_cloudinary_api_secret
 
-Run the Application:
-npm start
+yaml
+Copy code
 
+4. **Run the Application**  
+`npm start`
 
-📚 Usage
-Hotel Search: Use the search bar to find hotels based on location and dates.
-Interactive Map: View hotels on the map and get location-based information.
-User Registration: Sign up to securely manage your bookings and preferences.
-Image Management: Hotel owners and admins can upload and manage images for their listings.
-Secure Login: Users can log in using secure authentication through Passport.
-🤝 Contributing
+---
+
+## 📚 Usage
+
+- **Hotel Search**: Use the search bar to find hotels based on location and dates.
+- **Interactive Map**: View hotels on the map and get location-based information.
+- **User Registration**: Sign up to securely manage your bookings and preferences.
+- **Image Management**: Hotel owners and admins can upload and manage images for their listings.
+- **Secure Login**: Users can log in using secure authentication through Passport.
+
+---
+
+## 🤝 Contributing
+
 Contributions are what make the open-source community such a wonderful place to learn, inspire, and create. Any contributions you make are greatly appreciated!
 
-How to Contribute
-Fork the Project
+### How to Contribute
+
+1. **Fork the Project**  
 Create your own copy of the project by forking it.
 
-Create Your Feature Branch
-git checkout -b feature/AmazingFeature
+2. **Create Your Feature Branch**  
+`git checkout -b feature/AmazingFeature`
 
-Commit Your Changes
-git commit -m 'Add some AmazingFeature'
+3. **Commit Your Changes**  
+`git commit -m 'Add some AmazingFeature'`
 
-Push to the Branch
-git push origin feature/AmazingFeature
+4. **Push to the Branch**  
+`git push origin feature/AmazingFeature`
 
-Open a Pull Request
+5. **Open a Pull Request**  
 Submit your changes through a pull request for review.
 
-📜 License
+---
+
+## 📜 License
+
 Distributed under the MIT License. See LICENSE for more information.
 
-📞 Contact
+---
+
+## 📞 Contact
+
 Project Maintainers:
 
-
-Aditya Kumar Singh - adiaparmar@gmail.com
-GitHub: Adiaparmar
+- **Aditya Kumar Singh**  
+Email: adiaparmar@gmail.com  
+GitHub: [Adiaparmar](https://github.com/Adiaparmar)
 
 Feel free to reach out with any questions or feedback!
 
-Showcase your Project!
+---
+
+**Showcase your Project!**  
 We'd love to hear how you're using Wanderlust! Share your success stories or showcase your implementations with us on GitHub.
